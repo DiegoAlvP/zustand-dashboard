@@ -1,2 +1,2 @@
-# zustang-dashboard
-Curso práctico de Zustang
+# zustand-dashboard
+Curso práctico de Zustand
