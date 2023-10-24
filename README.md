@@ -1,2 +1,2 @@
 # zustang-dashboard
-Curso de Zustang
+Curso practico de Zustang
